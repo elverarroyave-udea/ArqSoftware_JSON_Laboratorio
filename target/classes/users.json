@@ -1,0 +1,35 @@
+[
+  {
+  "firstName": "Elver Andres",
+  "lastName": "Arroyave Bracamonte",
+  "age": 24,
+  "address":
+      {
+        "streetAddress": "Calle 26 A 52",
+        "city": "Caucasia",
+        "postalCode": 650
+      }
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Quintero Alvarez",
+    "age": 26,
+    "address":
+    {
+      "streetAddress": "Bowery Street",
+      "city": "Dargan",
+      "postalCode": 650
+    }
+  },
+  {
+    "firstName": "Ramiro",
+    "lastName": "Monroy Ramos",
+    "age": 26,
+    "address":
+    {
+      "streetAddress": "Bowery Street",
+      "city": "Dargan",
+      "postalCode": 650
+    }
+  }
+]
